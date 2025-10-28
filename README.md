@@ -74,4 +74,33 @@ Each view includes `#Preview` macros for live canvas preview in Xcode.
 
 ---
 
-Built with ❤️ using SwiftUI
+Built with ❤️ using SwiftUI naaaaa By WindSurf 🤗
+
+---
+
+## 🤖 AI Generation Details
+
+This project was generated using **WindSurf**, an AI-powered development tool for Swift.  
+The app concept and structure were created from a single natural language prompt crafted with **ChatGPT**.
+
+**Prompt used to generate this project:**
+
+> “Build a single-screen SwiftUI app called *Mood Weather*.  
+> Goal: A minimal yet elegant one-screen app that changes its background color and animation based on the selected mood.  
+> Requirements:  
+> 1. Use only SwiftUI.  
+> 2. The app should have a smooth UI/UX and a calming color palette.  
+> 3. The user selects their current mood from 4 options: ☀️ Happy, 🌧️ Sad, 🌩️ Angry, 🌈 Calm.  
+> 4. Each mood should:  
+> &nbsp;&nbsp;&nbsp;&nbsp;- Change the background gradient color.  
+> &nbsp;&nbsp;&nbsp;&nbsp;- Show an animated SF Symbol that fits the vibe.  
+> &nbsp;&nbsp;&nbsp;&nbsp;- Animate transitions smoothly.  
+> 5. Include a title “Mood Weather” at the top with a subtle fade-in effect.  
+> 6. Center the mood icon and name with animation when mood changes.  
+> 7. Use rounded buttons and clean font styling.  
+> 8. No API or backend logic.  
+> 9. Include SwiftUI Canvas previews.  
+> 10. Add soft pulsing motion to the mood icon when it changes.”
+
+This demonstrates how **AI-assisted workflows** can accelerate app creation — from concept to working Swift
+
